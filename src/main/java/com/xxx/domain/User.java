@@ -4,4 +4,5 @@ public class User {
     private String Id;
     private String phone;
     private String name;
+    private String email;
 }
